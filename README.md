@@ -1,4 +1,4 @@
-#Proyecto de Interfaz de Usuario Oscura
+Proyecto de Interfaz de Usuario Oscura
 Este proyecto consiste en una interfaz de usuario con un diseño oscuro, utilizando HTML y CSS. El diseño es responsivo, adaptándose a diferentes tamaños de pantalla, incluyendo dispositivos móviles y tabletas.
 
 Estructura del Proyecto
